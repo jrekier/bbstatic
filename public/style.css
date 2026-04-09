@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400&display=swap');
+
+/* ── Reset ────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+.hidden  { display: none !important; }
+[hidden] { display: none !important; }
+
+/* ── Palette ──────────────────────────────────────────────────── */
+:root {
+    --bg:       #f0ead8;
+    --bg-d:     #e0d8c0;
+    --border:   #c8b898;
+    --text:     #2a1a0a;
+    --text-dim: #8a7a60;
+    --blood:    #8b1a1a;
+    --blood-d:  #6a1010;
+    --home:     #b02020;
+    --away:     #1a3a99;
+    --gold:     #8a6a20;
+}
+
+/* ── Base ─────────────────────────────────────────────────────── */
+body {
+    font-family: 'IBM Plex Mono', monospace;
+    background: var(--bg);
+    color: var(--text);
+}
