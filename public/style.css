@@ -7,16 +7,21 @@
 
 /* ── Palette ──────────────────────────────────────────────────── */
 :root {
-    --bg:       #f0ead8;
-    --bg-d:     #e0d8c0;
+    --bg:       #f2ead6;
+    --bg-d:     #e6dcca;
     --border:   #c8b898;
     --text:     #2a1a0a;
     --text-dim: #8a7a60;
-    --blood:    #8b1a1a;
-    --blood-d:  #6a1010;
-    --home:     #b02020;
-    --away:     #1a3a99;
-    --gold:     #8a6a20;
+    --blood:    #c8102e;
+    --blood-d:  #a00c24;
+    --home:     #c8102e;
+    --away:     #1a3e8c;
+    --gold:     #f0c000;
+    --red:      #c8102e;
+    --red-d:    #a00c24;
+    --blue:     #1a3e8c;
+    --blue-d:   #132e6a;
+    --yellow:   #f0c000;
 }
 
 /* ── Base ─────────────────────────────────────────────────────── */
