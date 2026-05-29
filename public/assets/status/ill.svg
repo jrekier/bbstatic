@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" shape-rendering="geometricPrecision">
+  <!-- nauseated face: simplified variation for small-size on-pitch display -->
+  <circle cx="8" cy="8" r="7" fill="#b1cc33" stroke="#000" stroke-width="1"/>
+  <!-- worried, slanted eyebrows -->
+  <path d="M3.6,5.2 L6,4.4 M12.4,5.2 L10,4.4" stroke="#000" stroke-width="0.9" stroke-linecap="round" fill="none"/>
+  <!-- eyes -->
+  <circle cx="5.6" cy="7" r="0.95" fill="#000"/>
+  <circle cx="10.4" cy="7" r="0.95" fill="#000"/>
+  <!-- queasy wavy mouth -->
+  <path d="M4.6,11 Q6,9.8 7.5,11 T10.4,11" fill="none" stroke="#000" stroke-width="1" stroke-linecap="round"/>
+</svg>
